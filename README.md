@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @d77omyy
-- 👀 I’m interested in learing programing to pass my univesty and work in japan after it 
 - 🌱 I’m currently learning c++
 - 💞️ I’m looking to collaborate on any projact will make me better at programing 
 - 📫 How to reach me is to send an e-mail to d77omyy@hotmail.com
